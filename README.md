@@ -1,6 +1,7 @@
 # CineStar - Online Movie Ticket Booking System 🎬🍿
 
-![{9EED93DA-F6D5-4D68-8612-4E1B548639E4}](https://github.com/user-attachments/assets/d105e225-fad5-4d3b-bbce-138614d0e864)
+![{01A55D80-AA05-4CDD-9564-793092982A72}](https://github.com/user-attachments/assets/ce2cad95-c8e9-4ecf-8756-993ce43f06d8)
+
 
 
 ## 🌟 About The Project
